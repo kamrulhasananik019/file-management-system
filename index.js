@@ -1,1 +1,4 @@
-console.log("hello world")
+// import fs module 
+const fs=require('fs')
+
+
